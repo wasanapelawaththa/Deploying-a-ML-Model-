@@ -69,8 +69,3 @@ Use a deep learning model
 Cloud deployment
 Mobile responsiveness and better UI
 
-### 👩‍💻 Author
-Wasana Pelawaththa
-GitHub
-
-
